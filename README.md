@@ -11,7 +11,7 @@
     <li>📫 You can contact me by <a href="https://www.linkedin.com/in/tulupov-art-v" target="_blank">LinkedIn</a>, <a href="https://t.me/tulupovartem" target="_blank">Telegram</a> or by email: 💼 <a href="mailto:https://tulupov.art.v@gmail.com" target="_blank">tulupov.art.v@gmail.com</a></li>
 </ul>
 </p>
-<p align="center"><img src="https://www.hackthebox.com/badge/image/1277305"/></p>
+<p align="center"><a href="https://app.hackthebox.com/users/1277305" target="_blank"><img src="https://www.hackthebox.com/badge/image/1277305"/></a></p>
 
 <h2><img width="40px" height="40px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="💾" /> My GitHub</h2>
 <p align="center">
